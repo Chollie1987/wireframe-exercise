@@ -1,0 +1,36 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    list-style: none;
+}
+
+section {
+    width: 300px;
+    overflow: scroll;
+    scroll-behavior: smooth;
+}
+
+.banner-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.section-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.button {
+    margin-left: 600px;
+}
+
+a {
+    text-decoration: none;
+}
